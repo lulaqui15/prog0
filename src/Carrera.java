@@ -1,7 +1,7 @@
 package src;
 import java.util.ArrayList;
 import java.util.List;  
-// Clase Carrera
+
 public class Carrera {
     private String nombre;
     private List<Estudiante> estudiantes;

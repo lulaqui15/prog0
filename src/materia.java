@@ -15,7 +15,7 @@ public class Materia {
         this.creditos = creditos;
         this.calificacion = calificacion;
     }
-    // Getters y setters.
+    // Getters y setters
       public String getNombre() {
          return nombre;
       } 

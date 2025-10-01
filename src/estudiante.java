@@ -84,7 +84,7 @@ public class Estudiante {
         }
     }
 
-    // Métodos para gestionar materias
+    // Métodos para gestionar materias.
     public void agregarMateria(Materia materia) {
         if (materia != null) {
             materias.add(materia);

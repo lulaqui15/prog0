@@ -35,7 +35,7 @@ public class Universidad {
         return estudiantes;
     }
 
-    // Método para agregar estudiante
+    // Método para agregar estudiante.
     public void agregarEstudiante(Estudiante estudiante) {
         if (estudiante != null) {
             estudiantes.add(estudiante);

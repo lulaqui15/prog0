@@ -51,7 +51,7 @@ public class App {
         System.out.println();
         carrera.listarEstudiantes();
 
-        // Buscar estudiante por nombre
+        // Buscar estudiante por nombre. 
         String nombreBuscado = "Luis";
         Estudiante encontrado = carrera.buscarEstudiante(nombreBuscado);
         if (encontrado != null) {
